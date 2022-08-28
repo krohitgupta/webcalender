@@ -1,2 +1,2 @@
-# webcalender
-This is web calender
+#WebCalender
+This is Web Calender
